@@ -58,9 +58,10 @@
 ![Solid Edge](https://img.shields.io/badge/Solid%20Edge-0074B8?style=for-the-badge&logo=siemens&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![SketchUp](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white)
+![Bentley Systems](https://img.shields.io/badge/Bentley-00843E?style=for-the-badge&logo=bentley-systems&logoColor=white)
+
 ![Lidar](https://img.shields.io/badge/Lidar_Scanning-FF6600?style=for-the-badge&logo=lidar&logoColor=white)
 ![AR Visualization](https://img.shields.io/badge/AR_Visualization-550055?style=for-the-badge&logo=augmented-reality&logoColor=white)
-![Bentley Systems](https://img.shields.io/badge/Bentley-00843E?style=for-the-badge&logo=bentley-systems&logoColor=white)
 
 ---
 
