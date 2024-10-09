@@ -88,7 +88,7 @@
 
 ## ⚡ Fun Facts:
 
-- ⚙️ I have been working in **3D modeling** since 2011, specializing in **industrial design** and **AR visualization**.
+- ⚙️ I have been working in **3D modeling** since 2011, specializing in **industrial design** and **[AR visualization](https://github.com/okhko/ARVisuals)**.
 - 🌍 I am passionate about **environmental sustainability** and actively apply **machine learning** to optimize water treatment processes.
 - 🎯 I'm constantly evolving my skills in **machine learning** and **data analysis**, pushing the boundaries of what's possible in the intersection of **engineering** and **AI**.
 
