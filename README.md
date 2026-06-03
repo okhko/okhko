@@ -1,95 +1,113 @@
-# 👋 Hi! I'm Ievgenii Okhrymenko
-- I'm about engineering and technology.
-- I turn the unseen into the obvious, and the complex into the simple.
-- I specialize in engineering 3D modeling and data science in the industrial and commercial sectors.
+<h1 align="center">Ievgenii Okhrymenko</h1>
+<p align="center"><b>Civil &amp; Industrial Engineer · Designer · 3D &amp; AR · Data Scientist · Founder @ ARPack</b></p>
+
+<p align="center">
+  <a href="https://github.com/okhko">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=00BFFF&center=true&vCenter=true&width=760&lines=Civil+%26+Industrial+Engineer+%F0%9F%8F%97%EF%B8%8F+Design+%26+modelling;Industrial+water+treatment+%F0%9F%92%A7+ML+%26+optimization;3D+digital+twins+%E2%86%92+AR+%F0%9F%95%B6%EF%B8%8F;Founder+%40+ARPack+%E2%80%94+AR+content+portal+%F0%9F%9A%80;Tartu%2C+Estonia+%F0%9F%87%AA%F0%9F%87%AA" alt="tagline" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=okhko&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="views" />
+  <img src="https://img.shields.io/badge/Tartu%2C%20Estonia-1F8AC0?style=for-the-badge&logo=googlemaps&logoColor=white" alt="location" />
+  <a href="https://okhko.xyz"><img src="https://img.shields.io/badge/okhko.xyz-0A0A0A?style=for-the-badge&logo=hugo&logoColor=white" alt="website" /></a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/okhrymenko/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.kaggle.com/ievgeniiokhrymenko"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@okhrymenko"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.instagram.com/okhrymenko.i"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.tiktok.com/@okhrymenko.i"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+  <a href="https://t.me/geninoki"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:geninoki@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/diotapp"><img src="https://img.shields.io/badge/DIOT%20Apps-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <!-- ARPack — replace href when the portal URL is public -->
+  <a href="https://okhko.xyz"><img src="https://img.shields.io/badge/ARPack-Portal-550055?style=for-the-badge&logo=arkit&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🛠 My Specializations
+### 🧭 About
 
-### 🎨 Engineering 3D Modeling (since 2011):
+I'm a **civil & industrial construction engineer** based in **Tartu, Estonia** since 2018. Graduated from an **Architectural & Construction faculty**, specialty **Industrial & Civil Engineering (PGS)** — my core work is **design and modelling** of industrial and civil facilities, with a domain focus on **water treatment plants and equipment**. On top of that core engineering I bring **data science** and **AR** to turn complex physical systems into decision‑ready digital twins.
 
-- My expertise lies in creating precise digital models that fully match the visual and functional characteristics of real objects, with implementation in AR in both dynamic and static forms. These models simplify the understanding of complex concepts and objects of any scale, facilitating accurate and well-founded decision-making in various situations.
-
-### 📊 Data Science (since 2021):
-
-- In the field of data science, I work on projects related to data processing, analysis, and visualization, as well as the development of machine learning models, forecasting, optimization, and process automation. These skills enable me to analyze and interpret complex datasets, extracting valuable insights that contribute to the implementation of effective solutions and projects.
-
----
-
-### 🌍 About Me
-
-- 🌍 Since 2018, I’ve been living and working in Tartu, Estonia, focusing on innovative water purification solutions.  
-- 🔭 I specialize in optimizing industrial water treatment using data science to improve efficiency and reduce environmental impact.
-- 🌱 Always learning, with a strong focus on applying AI and machine learning to automate industrial processes.  
-- 👯 Open to collaboration on projects related to machine learning, data science, and environmental sustainability.  
+- 🏗️ **Industrial & Civil Engineering** *(core specialty — PGS, Architectural & Construction faculty)* — full‑cycle **design, modelling and engineering** of industrial and civil facilities; deep focus on **water treatment** plants, equipment and process layouts.
+- ⚙️ **3D Engineering Modeling** *(since 2011)* — precise digital twins of real objects and structures, delivered as static & dynamic **AR**.
+- 📊 **Data Science** *(since 2021)* — pipelines, EDA, forecasting, optimization and ML models applied to industrial processes (especially water treatment).
+- 🕶️ **AR product development** *(since 2025)* — building and shipping commercial AR projects under [**okhko.xyz**](https://okhko.xyz), turning engineering CAD into immersive, on‑device experiences.
+- 🚀 **Founder, ARPack** *(launched 2026)* — portal for AR content packs: ready‑to‑deploy industrial, training and educational AR assets, scenes and visualizations.
+- ⚡ **Business automation** — internal tooling with **Odoo** (ERP, CRM, manufacturing) and **n8n** (low‑code workflow automation) to wire data, models and processes end‑to‑end.
+- 🌱 Open to collaboration on **construction & design**, **ML / DS**, **AR & 3D visualization**, and **environmental sustainability tech**.
 
 ---
 
-## 🛠 Tech Stack:
+### 🛠 Tech stack
 
-### IT & Data Science Skills:
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-B4B4B4?style=for-the-badge&logo=matplotlib&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logo=lightgbm&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![BERT](https://img.shields.io/badge/BERT-F7931E?style=for-the-badge&logo=bert&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-5E9DDD?style=for-the-badge&logo=nlp&logoColor=white)
-![Statsmodels](https://img.shields.io/badge/Statsmodels-FF6347?style=for-the-badge&logo=statsmodels&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![tf-idf](https://img.shields.io/badge/tf--idf-FF4500?style=for-the-badge&logo=nlp&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-3C4E50?style=for-the-badge&logo=nlp&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CC0000?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![Statsmodels](https://img.shields.io/badge/Statsmodels-FF6347?style=for-the-badge&logo=statsmodels&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,sklearn,vscode,anaconda,postgres,docker,linux,git,github,bash,blender,unity&perline=15" alt="skills" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/odoo/714B67" width="48" height="48" alt="Odoo" title="Odoo" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" alt="n8n" title="n8n" />
+</p>
 
-### CAD & Engineering Skills:
-![AutoCAD](https://img.shields.io/badge/AutoCAD-EE3124?style=for-the-badge&logo=autodesk&logoColor=white)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-EF3B25?style=for-the-badge&logo=solidworks&logoColor=white)
-![Solid Edge](https://img.shields.io/badge/Solid%20Edge-0074B8?style=for-the-badge&logo=siemens&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![SketchUp](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white)
-![Bentley Systems](https://img.shields.io/badge/Bentley-00843E?style=for-the-badge&logo=bentley-systems&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/AutoCAD-E51050?style=flat-square&logo=autodesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SolidWorks-D71920?style=flat-square&logo=dassaultsystemes&logoColor=white" />
+  <img src="https://img.shields.io/badge/SketchUp-005F9E?style=flat-square&logo=sketchup&logoColor=white" />
+  <img src="https://img.shields.io/badge/ARKit-000000?style=flat-square&logo=apple&logoColor=white" />
+</p>
 
-![Lidar](https://img.shields.io/badge/Lidar_Scanning-FF6600?style=for-the-badge&logo=lidar&logoColor=white)
-![AR Visualization](https://img.shields.io/badge/AR_Visualization-550055?style=for-the-badge&logo=augmented-reality&logoColor=white)
+<p align="center">
+  <sub>Also: LightGBM · XGBoost · CatBoost · Statsmodels · NLTK · BERT · TF‑IDF · LiDAR · Bentley MicroStation · Solid Edge</sub>
+</p>
 
 ---
 
-## 🌟 Featured Projects:
-[![GitHub](https://img.shields.io/badge/Work%20GitHub-DIOTAPP%20projects-blue?style=for-the-badge&logo=github&logoColor=white&logo-rounded)](https://github.com/diotapp)
+### 📊 GitHub at a glance
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/okhko?label=Followers&style=for-the-badge&logo=github&color=181717&logoColor=white" alt="followers" />
+  <img src="https://img.shields.io/github/stars/okhko?affiliations=OWNER&label=Stars&style=for-the-badge&logo=github&color=FFCA28&logoColor=white" alt="stars" />
+  <img src="https://img.shields.io/github/last-commit/okhko/okhko?label=Last%20commit&style=for-the-badge&logo=github&color=8a2be2&logoColor=white" alt="last commit" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Years%20in%203D-14%2B-EE4C2C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Years%20in%20DS-4%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Domain-Water%20Treatment-1F8AC0?style=for-the-badge&logo=waterstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Built%20with-%E2%9D%A4%EF%B8%8F%20%26%20%E2%98%95-FF6B6B?style=for-the-badge" />
+</p>
 
 ---
 
-## 📊 GitHub Stats:
+### 🌟 Featured
 
-![Ievgenii's GitHub Stats](https://github-readme-stats.vercel.app/api?username=okhko&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=okhko&layout=compact&theme=radical)
-
----
-
-## 🔗 Connect with Me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=IEVGENII%20OKHRYMENKO)](https://www.linkedin.com/in/okhrymenko/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&label=IEVGENII%20OKHRYMENKO)](https://www.kaggle.com/ievgeniiokhrymenko)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&label=IEVGENII%20OKHRYMENKO)](https://t.me/geninoki)
-
+| Project | What it is | Link |
+|---|---|---|
+| 🏢 **DIOT Apps** | Industrial digital tools (work organisation) | [github.com/diotapp](https://github.com/diotapp) |
+| 🧪 **ds** | Data‑science portfolio & study notebooks | [okhko/ds](https://github.com/okhko/ds) |
+| 🌐 **okhko.xyz** | Personal website & writing | [okhko.xyz](https://okhko.xyz) |
+| 🎥 **YouTube** | 3D, engineering & data‑science clips | [@okhrymenko](https://www.youtube.com/@okhrymenko) |
+| 📈 **Kaggle** | Competitions & notebooks | [ievgeniiokhrymenko](https://www.kaggle.com/ievgeniiokhrymenko) |
 
 ---
 
-## ⚡ Fun Facts:
-
-- ⚙️ I have been working in **3D modeling** since 2011, specializing in **industrial design** and **[AR visualization](https://github.com/okhko/ARVisuals)**.
-- 🌍 I am passionate about **environmental sustainability** and actively apply **machine learning** to optimize water treatment processes.
-- 🎯 I'm constantly evolving my skills in **machine learning** and **data analysis**, pushing the boundaries of what's possible in the intersection of **engineering** and **AI**.
-
----
+<p align="center">
+  <em>“Turn the unseen into the obvious, and the complex into the simple.”</em>
+</p>
