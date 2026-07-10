@@ -30,15 +30,17 @@
 
 ### 🧭 About
 
-I'm a **civil & industrial construction engineer** based in **Tartu, Estonia** since 2018. Graduated from an **Architectural & Construction faculty**, specialty **Industrial & Civil Engineering (PGS)** — my core work is **design and modelling** of industrial and civil facilities, with a domain focus on **water treatment plants and equipment**. On top of that core engineering I bring **data science** and **AR** to turn complex physical systems into decision‑ready digital twins.
+Civil and industrial engineer based in Tartu, Estonia, where I've lived since 2018. I studied Industrial and Civil Engineering (PGS) at an Architecture and Construction faculty, and most of my work is the design and modelling of industrial and civil facilities, with a particular focus on water treatment plants and their equipment.
 
-- 🏗️ **Industrial & Civil Engineering** *(core specialty — PGS, Architectural & Construction faculty)* — full‑cycle **design, modelling and engineering** of industrial and civil facilities; deep focus on **water treatment** plants, equipment and process layouts.
-- ⚙️ **3D Engineering Modeling** *(since 2011)* — precise digital twins of real objects and structures, delivered as static & dynamic **AR**.
-- 📊 **Data Science** *(since 2021)* — pipelines, EDA, forecasting, optimization and ML models applied to industrial processes (especially water treatment).
-- 🕶️ **AR product development** *(since 2025)* — building and shipping commercial AR projects under [**okhko.xyz**](https://okhko.xyz), turning engineering CAD into immersive, on‑device experiences.
-- 🚀 **Founder, ARPack** *(launched 2026)* — portal for AR content packs: ready‑to‑deploy industrial, training and educational AR assets, scenes and visualizations.
-- ⚡ **Business automation** — internal tooling with **Odoo** (ERP, CRM, manufacturing) and **n8n** (low‑code workflow automation) to wire data, models and processes end‑to‑end.
-- 🌱 Open to collaboration on **construction & design**, **ML / DS**, **AR & 3D visualization**, and **environmental sustainability tech**.
+Over the years I've built two more skills around that foundation. Data science lets me analyse and optimise the processes I work with, and AR lets me take engineering models off the screen so people can actually walk around them and understand how a system fits together.
+
+- 🏗️ **Design & engineering** — I run the design and modelling of industrial and civil facilities, most often water treatment plants, their equipment and process layouts.
+- ⚙️ **3D modelling since 2011** — accurate digital twins of real structures and equipment, delivered as static or animated AR.
+- 📊 **Data science since 2021** — data pipelines, exploratory analysis, forecasting and optimisation models for industrial processes, water treatment in particular.
+- 🕶️ **AR products since 2025** — commercial AR work shipped under [**okhko.xyz**](https://okhko.xyz), taking engineering CAD into interactive scenes on the device.
+- 🚀 **ARPack, since 2026** — I founded ARPack, a portal for ready-to-use AR content packs: industrial, training and educational assets, scenes and visualisations.
+- ⚡ **Automation** — internal tooling on Odoo (ERP, CRM, manufacturing) and n8n to connect data, models and day-to-day processes.
+- 🌱 Happy to collaborate on construction and design, ML and data science, AR and 3D visualisation, or sustainability tech.
 
 ---
 
@@ -91,7 +93,6 @@ I'm a **civil & industrial construction engineer** based in **Tartu, Estonia** s
   <img src="https://img.shields.io/badge/Years%20in%203D-14%2B-EE4C2C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Years%20in%20DS-4%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Domain-Water%20Treatment-1F8AC0?style=for-the-badge&logo=waterstack&logoColor=white" />
-  <img src="https://img.shields.io/badge/Built%20with-%E2%9D%A4%EF%B8%8F%20%26%20%E2%98%95-FF6B6B?style=for-the-badge" />
 </p>
 
 ---
@@ -109,5 +110,5 @@ I'm a **civil & industrial construction engineer** based in **Tartu, Estonia** s
 ---
 
 <p align="center">
-  <em>“Turn the unseen into the obvious, and the complex into the simple.”</em>
+  <sub>Based in Tartu · always up for a good problem in engineering, data or AR.</sub>
 </p>
